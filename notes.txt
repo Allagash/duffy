@@ -1,0 +1,15 @@
+Notes on duffy infocom z machine interpreter
+3/2021
+
+Tech
+- instead of  @JvmStatic, just use kotlin command line program?
+- instead of ByteArray, use UByteArray?
+- cheat codes like $help, $teleport, $delete <object> etc. like the Perl interpreter? See https://www.foo.be/docs/tpj/issues/vol4_1/tpj0401-0015.html
+- undo commands, $undo, via compressed saves?
+- like Encrusted, show object tree, map, zocde?
+
+UX
+- compass rose with directions, up/down
+- keywords like old LTOI iOS
+- undo commands
+- Trizzbort mapping windows
